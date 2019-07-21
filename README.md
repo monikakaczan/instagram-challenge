@@ -28,7 +28,7 @@ I want to be able to post a picture
 ``` 
 As a user 
 So my friends know the context of my pictures 
-I want to be able to add descriptions 
+I want to be able to add descriptions to my posts
 ```
 ```
 As a user
