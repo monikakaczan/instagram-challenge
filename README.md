@@ -5,6 +5,41 @@ As a user
 So I can use the platform 
 I want to create a profile on Instagram 
 ```
+```
+As a user 
+So I can start using the platform under my nickname
+I want to login to Instagram
+``` 
+```
+As a user 
+So I don't have to worry if I forget my password 
+I want to have a function "Forgot passoword?" 
+```
+```
+As a user 
+So that my account is protected when I'm not using it
+I want to be able to log out of my account
+```
+```
+As a user 
+So that my friends can see what I'm up to
+I want to be able to post a picture 
+```
+``` 
+As a user 
+So my friends know the context of my pictures 
+I want to be able to add descriptions 
+```
+```
+As a user
+So I know what my friends think of my pictures
+I want them to post comments on my posts
+```
+```
+As a user 
+So that I know if people like what I post 
+I want them to be able to click 'like' under my puctures
+```
 
 Instagram Challenge
 ===================
