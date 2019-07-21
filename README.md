@@ -1,3 +1,11 @@
+
+### User stories 
+```
+As a user 
+So I can use the platform 
+I want to create a profile on Instagram 
+```
+
 Instagram Challenge
 ===================
 
