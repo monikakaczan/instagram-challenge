@@ -17,6 +17,11 @@ I want to have a function "Forgot passoword?"
 ```
 ```
 As a user 
+So that I don't have to remember one more password
+I want to have option "Remember password" on sign up
+```
+```
+As a user 
 So that my account is protected when I'm not using it
 I want to be able to log out of my account
 ```
@@ -40,6 +45,16 @@ As a user
 So that I know if people like what I post 
 I want them to be able to click 'like' under my puctures
 ```
+
+### Approach 
+
+Project is built on ```Rails 5.2.3```
+ 
+User functionality built on Devise gem. In Gemfile: ```gem devise``` <br>
+
+Add pictures functionality achieved with Paperclip gem. In Gemfile: ```gem "paperclip", "~> 6.0.0"```
+
+For styling I decided to use Bootstrap. In Gemfile:  ```gem 'bootstrap', '~> 4.3.1'```
 
 Instagram Challenge
 ===================
