@@ -1,2 +1,14 @@
-<h1>Posts#new</h1>
-<p>Find me in app/views/posts/new.html.erb</p>
+<h1>New Post</h1>
+<br>
+<br>
+<%= form_for @post, html: { multipart: true } do |post| %>
+<%= post.label :image %>
+<%= post.file_field :image %>
+
+<%= post.label :description %>
+<%= post.text_area :description %>
+<br>
+<br>
+<%= post.submit %>
+
+<% end %>
